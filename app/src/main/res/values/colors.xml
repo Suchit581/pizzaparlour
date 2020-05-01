@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#ce2b37</color>-->
+    <color name="colorPrimary">#23A7D8</color>
+    <color name="colorPrimaryDark">#ce2b37</color>
+    <color name="colorAccent">#FC5A5A</color>
+
+    <color name="white">#000</color>
+    <color name="black">#CE2B37</color>
+    <color name="transparent">#00000000</color>
+    <color name="gradStart">#ffffff</color>
+    <color name="gradStop">#fff</color>
+
+
+    <!--account color-->
+    <color name="TextColor">#332E2E </color>
+    <color name="textBackground">#E6E6CF</color>
+
+
+<!--slider color-->
+    <color name="sliderColor">#ff0000</color>
+
+
+
+
+
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorWhiteTransparent">#80ffffff</color>
+
+
+    <!--for paytm-->
+    <color name="colorGreen">#78ca28</color>
+    <color name="selected_product_count">#4d4d4d</color>
+    <color name="list_product_name">#121212</color>
+    <color name="list_products_price">#4d4d4d</color>
+    <color name="gradient_2">#3e3e3e</color>
+    <color name="bg_separator">#DA707070</color>
+    <color name="border_remove_item">#fc9898</color>
+    <color name="btn_remove_item">#fc2222</color>
+    <color name="red_dull">#FC5A5A</color>
+    <color name="bg_input_form">#FFEB6E</color>
+    <color name="hint_label">#4E4E4E</color>
+    <color name="grey">#5b5b5b</color>
+    <color name="lbl_secondary">#8d8d8d</color>
+
+
+
+    <!--new colors-->
+    <color name="background">#F2F1DD</color>
+    <color name="color_black">#000000</color>
+    <color name="color_skin">#edba8a</color>
+    <color name="color_red">#ce2b37</color>
+    <color name="color_white">#f2f1dd</color>
+    <color name="color_green">#009246</color>
+    <color name="color_sand">#ebc05c</color>
+    <color name="color_brown">#b28c49</color>
+
+
+</resources>
