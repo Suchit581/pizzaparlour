@@ -16,11 +16,11 @@ Pizza Ordering App, which enables customizing pizza as you wish.
 
 |   |   |   |
 |---|---|---|
-|![](images1.jpg)| ![](images2.jpg) | ![](images3.jpg)
-|![](images4.jpg)| ![](images5.jpg) | ![](images6.jpg)
-|![](images7.jpg)| ![](images8.jpg) | ![](images9.jpg)
-|![](images10.jpg)| ![](images11.jpg) | ![](images12.jpg)
-|![](images13.jpg)| ![](images14.jpg) | ![](images15.jpg)
+|![](images/1.jpg)| ![](images/2.jpg) | ![](images/3.jpg)
+|![](images/4.jpg)| ![](images/5.jpg) | ![](images/6.jpg)
+|![](images/7.jpg)| ![](images/8.jpg) | ![](images/9.jpg)
+|![](images/10.jpg)| ![](images/11.jpg) | ![](images/12.jpg)
+|![](images/13.jpg)| ![](images/14.jpg) | ![](images/15.jpg)
 
 ## Technology Used 🛠
 
